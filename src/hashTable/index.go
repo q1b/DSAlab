@@ -5,10 +5,10 @@ import (
 )
 
 const ArraySize = 7
-// HashTable structure 
+// HashTable structure
 
 type HashTable struct{
-	array [ArraySize]*bucket	
+	array [ArraySize]*bucket
 }
 // bucket is a linked list
 type bucket struct{
