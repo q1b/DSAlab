@@ -29,7 +29,6 @@ func main() {
     // sortfunc.InsertionSort(&sample)
     // shuffle(&sample)
     // fmt.Println(sortfunc.MergeSort(sample));
-
 }
 
 // hashtable "github.com/sacarvy/DSAlab/src/hashTable"
